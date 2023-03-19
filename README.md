@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/results-summary-component-main/design/results%20summary%20solution.png)
+![](/design/results summary solution.png)
 
 
 ### Links
