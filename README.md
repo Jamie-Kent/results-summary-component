@@ -30,8 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![ScreenShot](https://raw.github.com/Jamie-Kent/results-summary-component/main/design/results%summary%solution.png)
-
+![results summary solution](https://user-images.githubusercontent.com/55166609/226209474-5be202c1-fb7b-461c-8e97-6de3da90a5c2.png)
 
 
 
