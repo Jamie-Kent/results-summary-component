@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://results-summary-component-4lb.pages.dev/](https://results-summary-component-4lb.pages.dev/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
