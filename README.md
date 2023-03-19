@@ -68,10 +68,10 @@ Making responsive pages
 
 ### Useful resources
 
-- [Adding border radius to 2 sides of shape](https://www.w3schools.com/css/css3_buttons.asp)
-- [How to assign multiple classes to an element](https://stackoverflow.com/questions/8722163/how-to-assign-multiple-classes-to-an-html-container)
-- [How to target a class within a class](https://stackoverflow.com/questions/8965063/target-a-css-class-inside-another-css-class5)
-- [How to draw a circle with text centred](https://stackoverflow.com/questions/16615403/how-to-draw-a-circle-with-text-in-the-middle) - This was achieve by changing the line height
+- [23 Schools - CSS Buttons](https://www.w3schools.com/css/css3_buttons.asp) - Adding border radius to 2 sides of shape
+- [StackOverflow - How to assign multiple classes to an HTML container? (CSS)](https://stackoverflow.com/questions/8722163/how-to-assign-multiple-classes-to-an-html-container) - How to assign multiple classes to an element
+- [StackOverflow - Target a css class inside another css class (HTML)](https://stackoverflow.com/questions/8965063/target-a-css-class-inside-another-css-class5) - How to target a class within a class
+- [StackOverflow - How to draw a circle with text in the middle? (CSS)](https://stackoverflow.com/questions/16615403/how-to-draw-a-circle-with-text-in-the-middle) - How to draw a circle with text centred, I achieved this using line height
 
 
 ## Author
