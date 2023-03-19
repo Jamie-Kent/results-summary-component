@@ -54,6 +54,7 @@ Adding a background-color to create a gradient + other details which can be foun
 ```css
 /* CURVE THE BOTTOM TWO CORNERS OF A SQUARE */
 border-radius: 0 0 30px 30px;
+
 /* USING A GRADIENT BACKGROUND COLOR */
 background-image: linear-gradient(180deg, var(--Light-slate-blue), var(--Light-royal-blue));
 ```
